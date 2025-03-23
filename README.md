@@ -1,4 +1,26 @@
+ ![Logo](screenshots/12.jpg)
 
+# Yoom
+
+Yoom - Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
+
+
+## Screenshots
+
+![Screenshot 1](screenshots/1.jpg)
+![Screenshot 1](screenshots/2.jpg)
+![Screenshot 1](screenshots/3.jpg)
+![Screenshot 1](screenshots/5.jpg)
+![Screenshot 1](screenshots/6.jpg)
+![Screenshot 1](screenshots/7.jpg)
+![Screenshot 1](screenshots/8.jpg)
+![Screenshot 1](screenshots/9.jpg)
+![Screenshot 1](screenshots/10.jpg)
+![Screenshot 1](screenshots/11.jpg)
+![Screenshot 1](screenshots/12.jpg)
+![Screenshot 1](screenshots/13.jpg)
+![Screenshot 1](screenshots/14.jpg)
+![Screenshot 1](screenshots/15.jpg)
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
