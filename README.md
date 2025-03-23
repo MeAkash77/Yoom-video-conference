@@ -417,3 +417,15 @@ export default MeetingCard;
 ![Upcoming Meetings](/.github/images/img2.png "Upcoming Meetings")
 
 ![View Recordings](/.github/images/img4.png "View Recordings")
+
+## :gear: Tech Stack
+
+[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel")
+
+## :wrench: Stats
+
+[![Stats for Yoom](/.github/images/stats.svg "Stats for Yoom")](https://pagespeed.web.dev/analysis?url=https://clone-yoom.netlify.app "Stats for Yoom")
+
+## :raised_hands: Contribute
+
+You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
