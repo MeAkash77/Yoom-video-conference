@@ -13,6 +13,14 @@
     </div>
 </div>
 
+## :camera: Screenshots
+
+![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+
+![Upcoming Meetings](/.github/images/img2.png "Upcoming Meetings")
+
+![View Recordings](/.github/images/img4.png "View Recordings")
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
