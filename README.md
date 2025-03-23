@@ -1,4 +1,4 @@
- ![Logo](screenshots/12.jpg)
+ # [Logo](screenshots/12.jpg)
 
 # Yoom
 
