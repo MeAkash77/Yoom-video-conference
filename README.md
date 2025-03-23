@@ -1,4 +1,10 @@
+## :camera: Screenshots
 
+![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+
+![Upcoming Meetings](/.github/images/img2.png "Upcoming Meetings")
+
+![View Recordings](/.github/images/img4.png "View Recordings")
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -12,14 +18,6 @@
      Build this project step by step with our detailed tutorial 
     </div>
 </div>
-
-## :camera: Screenshots
-
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
-
-![Upcoming Meetings](/.github/images/img2.png "Upcoming Meetings")
-
-![View Recordings](/.github/images/img4.png "View Recordings")
 
 ## 📋 <a name="table">Table of Contents</a>
 
